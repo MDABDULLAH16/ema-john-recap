@@ -4,9 +4,9 @@
   margin: 7px;
 }
 .cart-container{
-    border: 1px solid gray;
+    border: 1px solid #95A0A7;
     border-radius: 8px;
-    border-bottom: none;
+    
     /* padding: 7px; */
     position: relative;
 
@@ -28,8 +28,13 @@
 }
 .btn-cart{
     width: 100%;
+    background-color: #FFE0B3;
     position: absolute;
     bottom: 0;
-    border-radius: 8px;
+    border: none;
+    border-radius: 0px 0px 8px 8px
 
+}
+.btn-cart:hover{
+    background-color: orange;
 }
