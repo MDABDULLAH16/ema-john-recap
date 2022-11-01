@@ -1,5 +1,5 @@
 # Getting start with ema-john-shopping
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site Link: https://ema-john-shopping3216541.netlify.app/
 
 ## Available Scripts
 
